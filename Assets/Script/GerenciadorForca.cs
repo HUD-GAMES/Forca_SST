@@ -35,8 +35,7 @@ public class GerenciadorForca : MonoBehaviour
         "ATENÇÃO OPERADOR!\n\nUma manutenção crítica na caldeira principal precisa ser realizada. Para liberar a ordem de serviço e garantir que você está com os EPIs em dia, descubra a senha de segurança!",
         "ALERTA DE SEGURANÇA!\n\nOcorreu um vazamento de pressão na linha 3. Você foi escalado para conter a área, mas o painel eletrônico travou. Descubra a senha para acessar as ferramentas corretas!",
         "ORDEM DE SERVIÇO DIÁRIA:\n\nHoje é dia de inspeção de risco na área de usinagem. Nenhum operador entra sem autorização. Decifre a palavra-passe para validar seus equipamentos!",
-        "ATENÇÃO SGI:\n\nUm novo carregamento de produtos químicos chegou ao pátio. Para operar a empilhadeira com segurança, valide o checklist encontrando a senha do sistema!"
-    };
+        "ATENÇÃO SGI:\n\nUm novo carregamento de produtos químicos chegou ao pátio. Para operar a empilhadeira com segurança, valide o checklist encontrando a senha do sistema!","ATENÇÃO! Inicie o Jogo Rápido"    };
 
     void Start()
     {
